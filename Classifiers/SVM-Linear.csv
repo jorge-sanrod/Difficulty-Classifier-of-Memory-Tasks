@@ -1,4 +1,4 @@
-﻿Variables de entrenamiento,precision 1,precision 3,precision 6,precision macro avg
+﻿Training features,Precision 1,Precision 3,Precision 6,Precision macro avg
 MPDC,0.67,0.51,0.56,0.58
 APCPS,0.5,0.5,0.56,0.52
 PD,0,0.41,0.48,0.3

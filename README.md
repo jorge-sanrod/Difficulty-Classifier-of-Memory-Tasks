@@ -2,7 +2,7 @@
 
 [Center for Research in Mathematics (CIMAT)](http://www.cimat.mx/en)
 
-Author: [Hugo Mitre-Hernandez](http://scholar.google.com/citations?user=TjQqDSIAAAAJ&hl=en),[Jorge Sanchez-Rodriguez](https://scholar.google.com/citations?user=1hWlnBoAAAAJ&hl=en),[Sergio Nava-Muñoz](https://scholar.google.com/schhp?hl=es)
+Author: [Hugo Mitre-Hernandez](http://scholar.google.com/citations?user=TjQqDSIAAAAJ&hl=en), [Jorge Sanchez-Rodriguez](https://scholar.google.com/citations?user=1hWlnBoAAAAJ&hl=en), [Sergio Nava-Muñoz](https://scholar.google.com/citations?user=Fc9sxKgAAAAJ&hl=en&authuser=1&oi=ao)
 
 Email: hmitre@cimat.mx, jorge.rodriguez@cimat.mx, nava@cimat.mx 
 
